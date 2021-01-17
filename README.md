@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-Difficulty in formatting in the xml files, particularly with layout attributes and constraints.
+- Difficulty in formatting in the xml files, particularly with layout attributes and constraints.
 
 ## License
 
